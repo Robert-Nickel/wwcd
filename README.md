@@ -8,3 +8,4 @@ Winner winner chicken dinner - aims to be a list of online games for groups.
 ### Deduction Games
 [CodeNames](https://codenames.game/room/create)
 [Longwave](https://longwave.web.app/)
+[Just One](https://oneword.games/)
